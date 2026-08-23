@@ -20,7 +20,6 @@ let resetSettingsBtn = document.getElementById("reset-settings")
 let pomodoroMinutesInput = document.getElementById("pomodoro-minutes")
 let shortBreakMinutesInput = document.getElementById("short-break-minutes")
 let longBreakMinutesInput = document.getElementById("long-break-minutes")
-
 let currentTimer = null
 let myInterval = null
 
